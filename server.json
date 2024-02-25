@@ -1,204 +1,1016 @@
 {
   "tags": [
-    { "title": "Redis", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 },
-    { "title": "Redux Toolkit", "amountOfVideos": 138 },
-    { "title": "React Hooks", "amountOfVideos": 130 },
-    { "title": "Vue.js Composition API", "amountOfVideos": 115 },
-    { "title": "Express.js 6", "amountOfVideos": 122 },
-    { "title": "Flask RESTful", "amountOfVideos": 105 },
-    { "title": "GraphQL with React", "amountOfVideos": 134 },
-    { "title": "Angular Universal", "amountOfVideos": 112 },
-    { "title": "Nuxt.js", "amountOfVideos": 118 },
-    { "title": "FastAPI", "amountOfVideos": 126 },
-    { "title": "Laravel", "amountOfVideos": 140 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 },
-    { "title": "Redux Toolkit", "amountOfVideos": 138 },
-    { "title": "React Hooks", "amountOfVideos": 130 },
-    { "title": "Vue.js Composition API", "amountOfVideos": 115 },
-    { "title": "Express.js 6", "amountOfVideos": 122 },
-    { "title": "Flask RESTful", "amountOfVideos": 105 },
-    { "title": "GraphQL with React", "amountOfVideos": 134 },
-    { "title": "Angular Universal", "amountOfVideos": 112 },
-    { "title": "Nuxt.js", "amountOfVideos": 118 },
-    { "title": "FastAPI", "amountOfVideos": 126 },
-    { "title": "Laravel", "amountOfVideos": 140 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 },
-    { "title": "Redux Toolkit", "amountOfVideos": 138 },
-    { "title": "React Hooks", "amountOfVideos": 130 },
-    { "title": "Vue.js Composition API", "amountOfVideos": 115 },
-    { "title": "Express.js 6", "amountOfVideos": 122 },
-    { "title": "Flask RESTful", "amountOfVideos": 105 },
-    { "title": "GraphQL with React", "amountOfVideos": 134 },
-    { "title": "Angular Universal", "amountOfVideos": 112 },
-    { "title": "Nuxt.js", "amountOfVideos": 118 },
-    { "title": "FastAPI", "amountOfVideos": 126 },
-    { "title": "Laravel", "amountOfVideos": 140 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 },
-    { "title": "Redux Toolkit", "amountOfVideos": 138 },
-    { "title": "React Hooks", "amountOfVideos": 130 },
-    { "title": "Vue.js Composition API", "amountOfVideos": 115 },
-    { "title": "Express.js 6", "amountOfVideos": 122 },
-    { "title": "Flask RESTful", "amountOfVideos": 105 },
-    { "title": "GraphQL with React", "amountOfVideos": 134 },
-    { "title": "Angular Universal", "amountOfVideos": 112 },
-    { "title": "Nuxt.js", "amountOfVideos": 118 },
-    { "title": "FastAPI", "amountOfVideos": 126 },
-    { "title": "Laravel", "amountOfVideos": 140 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 },
-    { "title": "Redux Toolkit", "amountOfVideos": 138 },
-    { "title": "React Hooks", "amountOfVideos": 130 },
-    { "title": "Vue.js Composition API", "amountOfVideos": 115 },
-    { "title": "Express.js 6", "amountOfVideos": 122 },
-    { "title": "Flask RESTful", "amountOfVideos": 105 },
-    { "title": "GraphQL with React", "amountOfVideos": 134 },
-    { "title": "Angular Universal", "amountOfVideos": 112 },
-    { "title": "Nuxt.js", "amountOfVideos": 118 },
-    { "title": "FastAPI", "amountOfVideos": 126 },
-    { "title": "Laravel", "amountOfVideos": 140 },
-    { "title": "React", "amountOfVideos": 142 },
-    { "title": "Angular", "amountOfVideos": 125 },
-    { "title": "Vue.js", "amountOfVideos": 110 },
-    { "title": "Node.js", "amountOfVideos": 130 },
-    { "title": "Python", "amountOfVideos": 118 },
-    { "title": "JavaScript", "amountOfVideos": 135 },
-    { "title": "TypeScript", "amountOfVideos": 120 },
-    { "title": "Express.js", "amountOfVideos": 110 },
-    { "title": "Django", "amountOfVideos": 128 },
-    { "title": "Ruby", "amountOfVideos": 115 },
-    { "title": "Vue 3", "amountOfVideos": 140 },
-    { "title": "Svelte", "amountOfVideos": 125 },
-    { "title": "Next.js", "amountOfVideos": 115 },
-    { "title": "Flask", "amountOfVideos": 135 },
-    { "title": "Spring Boot", "amountOfVideos": 122 },
-    { "title": "React Native", "amountOfVideos": 148 },
-    { "title": "Vue.js 3", "amountOfVideos": 130 },
-    { "title": "Express.js 4", "amountOfVideos": 112 },
-    { "title": "Django Rest Framework", "amountOfVideos": 125 },
-    { "title": "Ruby on Rails 6", "amountOfVideos": 118 },
-    { "title": "React Redux", "amountOfVideos": 145 },
-    { "title": "AngularJS", "amountOfVideos": 105 },
-    { "title": "Vue.js 2", "amountOfVideos": 120 },
-    { "title": "Express.js 5", "amountOfVideos": 128 },
-    { "title": "Django Channels", "amountOfVideos": 110 }
+    {
+      "title": "Redis",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Redux Toolkit",
+      "slug": "old",
+      "amountOfVideos": 138
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js Composition API",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Express.js 6",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "Flask RESTful",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GraphQL with React",
+      "slug": "old",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Angular Universal",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "FastAPI",
+      "slug": "old",
+      "amountOfVideos": 126
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Redux Toolkit",
+      "slug": "old",
+      "amountOfVideos": 138
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js Composition API",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Express.js 6",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "Flask RESTful",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GraphQL with React",
+      "slug": "old",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Angular Universal",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "FastAPI",
+      "slug": "old",
+      "amountOfVideos": 126
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Redux Toolkit",
+      "slug": "old",
+      "amountOfVideos": 138
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js Composition API",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Express.js 6",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "Flask RESTful",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GraphQL with React",
+      "slug": "old",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Angular Universal",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "FastAPI",
+      "slug": "old",
+      "amountOfVideos": 126
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Redux Toolkit",
+      "slug": "old",
+      "amountOfVideos": 138
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js Composition API",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Express.js 6",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "Flask RESTful",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GraphQL with React",
+      "slug": "old",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Angular Universal",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "FastAPI",
+      "slug": "old",
+      "amountOfVideos": 126
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Redux Toolkit",
+      "slug": "old",
+      "amountOfVideos": 138
+    },
+    {
+      "title": "React Hooks",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Vue.js Composition API",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Express.js 6",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "Flask RESTful",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "GraphQL with React",
+      "slug": "old",
+      "amountOfVideos": 134
+    },
+    {
+      "title": "Angular Universal",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Nuxt.js",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "FastAPI",
+      "slug": "old",
+      "amountOfVideos": 126
+    },
+    {
+      "title": "Laravel",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "React",
+      "slug": "old",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Angular",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Vue.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Node.js",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Python",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "JavaScript",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "TypeScript",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "title": "Django",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Ruby",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Vue 3",
+      "slug": "old",
+      "amountOfVideos": 140
+    },
+    {
+      "title": "Svelte",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Next.js",
+      "slug": "old",
+      "amountOfVideos": 115
+    },
+    {
+      "title": "Flask",
+      "slug": "old",
+      "amountOfVideos": 135
+    },
+    {
+      "title": "Spring Boot",
+      "slug": "old",
+      "amountOfVideos": 122
+    },
+    {
+      "title": "React Native",
+      "slug": "old",
+      "amountOfVideos": 148
+    },
+    {
+      "title": "Vue.js 3",
+      "slug": "old",
+      "amountOfVideos": 130
+    },
+    {
+      "title": "Express.js 4",
+      "slug": "old",
+      "amountOfVideos": 112
+    },
+    {
+      "title": "Django Rest Framework",
+      "slug": "old",
+      "amountOfVideos": 125
+    },
+    {
+      "title": "Ruby on Rails 6",
+      "slug": "old",
+      "amountOfVideos": 118
+    },
+    {
+      "title": "React Redux",
+      "slug": "old",
+      "amountOfVideos": 145
+    },
+    {
+      "title": "AngularJS",
+      "slug": "old",
+      "amountOfVideos": 105
+    },
+    {
+      "title": "Vue.js 2",
+      "slug": "old",
+      "amountOfVideos": 120
+    },
+    {
+      "title": "Express.js 5",
+      "slug": "old",
+      "amountOfVideos": 128
+    },
+    {
+      "title": "Django Channels",
+      "slug": "old",
+      "amountOfVideos": 110
+    },
+    {
+      "id": "5d17",
+      "title": "TanStack Router",
+      "slug": "tanstack-router",
+      "amountOfVideos": 0
+    },
+    {
+      "id": "f818",
+      "title": "Vue",
+      "slug": "vue",
+      "amountOfVideos": 0
+    }
   ]
 }

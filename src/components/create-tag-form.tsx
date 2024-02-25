@@ -60,7 +60,10 @@ export function CreateTagForm() {
   return (
     <form onSubmit={handleSubmit(createTag)} className="w-full space-y-6">
       <div className="space-y-2">
-        <label className="text-sm font-medium block" htmlFor="title">
+        <label
+          className="text-sm font-medium text-zinc-200 block"
+          htmlFor="title"
+        >
           Tag name
         </label>
         <input
@@ -77,7 +80,10 @@ export function CreateTagForm() {
       </div>
 
       <div className="space-y-2">
-        <label className="text-sm font-medium block" htmlFor="slug">
+        <label
+          className="text-sm font-medium text-zinc-200 block"
+          htmlFor="slug"
+        >
           Slug
         </label>
         <input
